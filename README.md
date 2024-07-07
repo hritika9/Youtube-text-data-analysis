@@ -29,11 +29,16 @@ This project focuses on analyzing textual data from YouTube videos, including vi
 EDA involves answering  key questions such as:
 
 - Top most used emoji in the comments
+
+  ![newplot](https://github.com/hritika9/Youtube-text-data-analysis/assets/94508484/50d741b0-f27d-466b-8c8a-20356870c35d)
+
 - Number of postive and negative comments.
 - Analysing most liked category.
 - Find out whether audience is engaged or not.
 - Which channel has the largest number of trending videos.
 - Does punctuation in title have any relation with views , likes ,dislikes and comments?
+
+
 
 ### Results
 
