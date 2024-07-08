@@ -13,7 +13,7 @@
 
 ### Project Overview
 
-This project focuses on analyzing textual data from YouTube videos, including video titles, descriptions, and comments. The aim is to uncover insights such as common themes, sentiment analysis,wordcloud analysis and emoji analysis. This analysis can provide valuable information for content creators, marketers, and researchers interested in understanding audience engagement and content trends on YouTube.
+This project focuses on analyzing textual data from YouTube videos, including video titles, likes, dislikes and comments. The aim is to uncover insights such as common themes, sentiment analysis,wordcloud analysis and emoji analysis. This analysis can provide valuable information for content creators, marketers, and researchers interested in understanding audience engagement and content trends on YouTube.
 
 ### Data Sources
 
